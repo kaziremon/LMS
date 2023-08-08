@@ -1,0 +1,105 @@
+.tbl-border{
+    border : 1px solid;
+}
+.text-center {
+	text-align: center!important;
+	margin:0 auto;
+}
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+table, th {
+    border: 1px solid black;       
+    font-size: 13px;        
+    text-align: center;
+    padding-left:5px;
+}
+table, td {
+    border: 1px solid black;       
+    font-size: 13px;        
+    text-align: left;
+    padding-left:5px;
+} 
+.foright {
+   text-align: right; 
+    padding-right: 2px;
+}
+.div100{
+    float:left;
+    width:100%;
+    font-size: 11px;
+}
+.div80 {
+	float:left;
+    width:80%;
+}
+.div60{
+    float:left;
+    width:60%;
+}
+.div70{
+    float:left;
+    width:70%;
+}
+.div50{
+    float:left;
+    width:50%;
+}
+.div45 {
+	float:left;
+    width:45%;
+}
+.div40{
+    float:left;
+    width:40%;
+}
+.div30{
+    float:left;
+    width:30%;
+}
+.div25{
+    float:left;
+    width:25%;	
+}
+.div20{
+    float:left;
+    width:20%;
+}
+.div16{
+    float:left;
+    width:16%;
+}
+.div14{
+    float:left;
+    width:14%;
+}
+.div10 {
+	float:left;
+    width:10%;
+}
+.div5{
+		float:left;
+    width:5%;
+}
+h5 {
+    margin-bottom: 5px;
+}
+h4 {
+	font-weight: 500;
+	font-size: 1.5rem;
+}
+label {
+    display: inline-block;
+    margin-bottom: .5rem;
+}
+.tex {
+    font-size: 11px;
+}
+.sign p{
+	 border-bottom: 1px solid gray;
+	 width: 55%;
+	/* margin-bottom:50px;
+	margin-right: 70px;  */
+}
